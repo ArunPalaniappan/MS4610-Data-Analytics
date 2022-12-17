@@ -2,7 +2,7 @@
 
 Code files, reports and any other relevant material pertaining to MS4610 Introduction to Data Analytics project 2022, for group - Mech.ai
 
-Authored by,  
-Arun Palaniappan  
-Raghav Jangid  
-Swapnil Mehta  
+## Authors  
+- Arun Palaniappan - ME20B036   
+- Raghav Jangid - ME20B143  
+- Swapnil Mehta - ME20B183  
