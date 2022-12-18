@@ -6,4 +6,4 @@ I request the readers to download the [Final Report](https://github.com/ArunPala
 ## Authors  
 - Arun Palaniappan - ME20B036   
 - Raghav Jangid - ME20B143  
-- Swapnil Mehta - ME20B183  
+- Swapnil Paresh Mehta - ME20B183  
